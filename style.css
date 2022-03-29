@@ -49,9 +49,16 @@ margin: 0.5rem 0 1rem 1rem;
     display: flex;
 }
 
-.btn-right{
+.container-edit{
+    margin: 0.5em .5em;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.container-edit2{
     display: inline-block;
-    justify-content: flex-end;
+    margin: .5em .5em;
 
 }
 
